@@ -1,3 +1,5 @@
 .stack-work
 .idea/
 *.class
+project/
+target/

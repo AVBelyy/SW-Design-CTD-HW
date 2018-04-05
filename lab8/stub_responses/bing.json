@@ -1,0 +1,23 @@
+[
+  {"query": "machine learning", "results": [
+    {"title": "Machine learning - Wikipedia", "url": "https://en.wikipedia.org/wiki/Machine_learning"},
+    {"title": "Machine Learning | Microsoft Azure", "url": "https://azure.microsoft.com/en-us/services/machine-learning-studio"},
+    {"title": "Machine Learning | Coursera", "url": "https://www.coursera.org/learn/machine-learning"},
+    {"title": "What is machine learning (ML)? - Definition from WhatIs.com", "url": "http://whatis.techtarget.com/definition/machine-learning"},
+    {"title": "Machine Learning at AWS - aws.amazon.com", "url": "https://aws.amazon.com/machine-learning"}
+  ]},
+  {"query": "blockchain", "results": [
+    {"title": "Blockchain.info - Official Site", "url": "https://blockchain.info"},
+    {"title": "Blockchain", "url": "https://www.blockchain.com"},
+    {"title": "Blockchain - Wikipedia", "url": "https://en.wikipedia.org/wiki/Blockchain"},
+    {"title": "The Blockchain: What It Is and Why It Matters - Brookings", "url": "https://www.brookings.edu/blog/techtank/2015/01/13/the-blockchain-what-it-is-and-why-it-matters/"},
+    {"title": "About > Blockchain", "url": "https://www.blockchain.com/about"}
+  ]},
+  {"query": "agile", "results": [
+    {"title": "Agile software development - Wikipedia", "url": "https://en.wikipedia.org/wiki/Agile_software_development"},
+    {"title": "Agile Methodology - Official Site", "url": "http://agilemethodology.org"},
+    {"title": "Agile Software Development - Official Site", "url": "http://agilemanifesto.org"},
+    {"title": "Agile | Definition of Agile by Merriam-Webster", "url": "https://www.merriam-webster.com/dictionary/agile"},
+    {"title": "What is Agile Software Development? | Agile Alliance", "url": "https://www.agilealliance.org/agile101"}
+  ]}
+]

@@ -1,0 +1,23 @@
+[
+  {"query": "machine learning", "results": [
+    {"title": "Machine learning - Wikipedia", "url": "https://en.wikipedia.org/wiki/Machine_learning"},
+    {"title": "Machine Learning | Coursera", "url": "https://www.coursera.org/learn/machine-learning"},
+    {"title": "Deep Learning", "url": "http://www.deeplearningbook.org/"},
+    {"title": "Machine Learning Crash Course | Google Developers", "url": "https://developers.google.com/machine-learning/crash-course/"},
+    {"title": "Machine Learning: What it is and why it matters | SAS", "url": "https://www.sas.com/en_us/insights/analytics/machine-learning.html"}
+  ]},
+  {"query": "blockchain", "results": [
+    {"title": "Blockchain - Wikipedia", "url": "https://en.wikipedia.org/wiki/Blockchain"},
+    {"title": "Blockchain", "url": "https://www.blockchain.com/"},
+    {"title": "What is Blockchain Technology? A Step-by-Step Guide For Beginners", "url": "https://blockgeeks.com/guides/what-is-blockchain-technology/"},
+    {"title": "Bitcoin Block Explorer - Blockchain", "url": "https://blockchain.info"},
+    {"title": "Blockchain Definition | Investopedia", "url": "https://www.investopedia.com/terms/b/blockchain.asp"}
+  ]},
+  {"query": "agile", "results": [
+    {"title": "Agile software development - Wikipedia", "url": "https://en.wikipedia.org/wiki/Agile_software_development"},
+    {"title": "Гибкая методология разработки — Википедия", "url": "https://ru.wikipedia.org/wiki/Гибкая_методология_разработки"},
+    {"title": "Manifesto for Agile Software Development", "url": "http://agilemanifesto.org/"},
+    {"title": "What is Agile Software Development? | Agile Alliance", "url": "https://www.agilealliance.org/agile101/"},
+    {"title": "Agile Methodology", "url": "http://agilemethodology.org/"}
+  ]}
+]
